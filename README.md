@@ -43,6 +43,9 @@ Chaque fichier source correspond à une implémentation indépendante d’un alg
 ## ▶️ Compilation et exécution
 Chaque programme est indépendant. Pour compiler et exécuter :  
 
+gcc nom_du_fichier.c -o programme
+./programme
+
 exemple de compilation :
 ```bash
 
